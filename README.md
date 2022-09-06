@@ -1,7 +1,4 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+
 [![MIT License][license-shield]][license-url]
 
 [![Discord][discussion-shield]][discussion-url]
@@ -11,7 +8,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Please put here some general information about your Intergration / App / Solution.
+This is a testing sandbox for the support team. Its purpose is to have a shared space to collaboratively test integrations, custom elements and other more specific use cases. 
 
 
 
